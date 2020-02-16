@@ -4,12 +4,12 @@
     class ContatoController{
         public function __construct()
         {
-            
+           
         }
 
         public function store($id,$status)
         {   
-            
+            dd('entrou');
         }
     }
 ?>
